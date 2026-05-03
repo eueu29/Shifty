@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=\"$HOME/development/flutter/bin:$PATH\")",
+      "Bash(flutter test:*)",
+      "Bash(flutter pub:*)",
+      "Bash(flutter --version)"
+    ]
+  }
+}
